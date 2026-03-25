@@ -14,4 +14,4 @@ I created a GitHub repository, cloned it to my local computer, added the require
 - `edit final version manually`
 
 ## Video walkthrough
-I will add my unlisted video link here after recording.
+(https://youtu.be/pb67SxgWQ-M)
